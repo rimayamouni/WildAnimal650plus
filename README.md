@@ -2,7 +2,7 @@
 # WildAnimal650+: A Large-Scale Annotated Dataset for Generalized Animal Segmentation in Unconstrained Environments
 
 <p align="center">
-  <img src="assets/diversity.png" width="1000">
+  <img src="assets/diversiy.png" width="1000">
 </p>
 
 ## Overview
@@ -133,7 +133,6 @@ WildAnimal650+ enables research in:
 - Wildlife segmentation
 - Open-world perception
 - Species recognition
-- Habitat understanding
 - Conservation-oriented vision systems
 
 ---
