@@ -2,7 +2,7 @@
 # WildAnimal650+: A Large-Scale Annotated Dataset for Generalized Animal Segmentation in Unconstrained Environments
 
 <p align="center">
-  <img src="assets/teaser.png" width="1000">
+  <img src="diversity.png" width="1000">
 </p>
 
 ## Overview
@@ -89,13 +89,13 @@ Our experiments demonstrate significant performance degradation under ecological
 ## Ecological Diversity
 
 <p align="center">
-  <img src="assets/diversity.png" width="1000">
+  <img src="teaser.png" width="1000">
 </p>
 
 ## Segmentation Examples
 
 <p align="center">
-  <img src="assets/figure4.pdf" width="1000">
+  <img src="figure4.pdf" width="1000">
 </p>
 
 
