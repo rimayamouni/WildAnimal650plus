@@ -72,6 +72,17 @@ Our dataset is designed to benchmark robust segmentation systems for ecological 
 
 
 
+
+
+# Sample Visualizations
+
+## Ecological Diversity
+
+<p align="center">
+  <img src="assets/teaser.png" width="1000">
+</p>
+
+
 # Benchmark Models
 
 We benchmark the following segmentation architectures:
@@ -84,12 +95,11 @@ We benchmark the following segmentation architectures:
 Our experiments demonstrate significant performance degradation under ecological distribution shifts and challenging environmental conditions
 
 
-# Sample Visualizations
 
-## Ecological Diversity
+
 
 <p align="center">
-  <img src="assets/teaser.png" width="1000">
+  <img src="assets/results.png" width="1000">
 </p>
 
 ## Segmentation Examples
