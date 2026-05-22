@@ -7,9 +7,9 @@
 
 ## Overview
 
-WildAnimal650+ is a large-scale, ecologically grounded semantic segmentation dataset designed for open-world animal understanding in unconstrained environments.
+WildAnimal650+ is a large-scale, ecologically grounded semantic segmentation dataset designed for open-world animal understanding in unconstrained environments
 
-The dataset contains:
+Our dataset contains:
 
 - 10,032 high-resolution images
 - 658 animal species
@@ -32,9 +32,8 @@ WildAnimal650+ captures challenging real-world conditions including:
 - Adverse weather conditions
 - Complex natural backgrounds
 
-This dataset is designed to benchmark robust segmentation systems for ecological AI, biodiversity monitoring, conservation science, and open-world perception.
+Our dataset is designed to benchmark robust segmentation systems for ecological AI, biodiversity monitoring, conservation science, and open-world perception.
 
----
 
 # Dataset Highlights
 
@@ -45,7 +44,7 @@ This dataset is designed to benchmark robust segmentation systems for ecological
 - Open-world segmentation benchmark
 - Hierarchical taxonomic structure
 
----
+
 
 # Dataset Statistics
 
@@ -71,7 +70,7 @@ This dataset is designed to benchmark robust segmentation systems for ecological
 | Mammals | 125 |
 | Reptiles | 112 |
 
----
+
 
 # Benchmark Models
 
@@ -82,9 +81,8 @@ We benchmark the following segmentation architectures:
 - UNet++
 - SegFormer
 
-Our experiments demonstrate significant performance degradation under ecological distribution shifts and challenging environmental conditions.
+Our experiments demonstrate significant performance degradation under ecological distribution shifts and challenging environmental conditions
 
----
 
 # Sample Visualizations
 
@@ -100,7 +98,7 @@ Our experiments demonstrate significant performance degradation under ecological
   <img src="assets/results.png" width="1000">
 </p>
 
----
+
 
 # Dataset Structure
 
@@ -112,12 +110,8 @@ WildAnimal650Plus/
 ├── train/
 ├── val/
 ├── test/
-├── assets/
-├── scripts/
 └── benchmarks/
-```
 
----
 
 # Annotation Protocol
 
@@ -125,11 +119,10 @@ Annotations were generated using:
 
 - Segment Anything Model (SAM)
 - CVAT refinement workflow
-- Multi-stage quality control
+- quality control
 
 All masks follow the COCO instance segmentation specification.
 
----
 
 # Applications
 
@@ -149,14 +142,14 @@ WildAnimal650+ enables research in:
 
 If you use WildAnimal650+ in your research, please cite:
 
-```bibtex
-@article{yamouni2026wildanimal650,
-  title={WildAnimal650+: A Large-Scale Annotated Dataset for Generalized Animal Segmentation in Unconstrained Environments},
-  author={Yamouni, Rima},
-  journal={},
-  year={2026}
+@article{yamouni2026wildanimal650+,
+  title={WildAnimal650+: A large-scale annotated dataset for generalized animal segmentation in unconstrained environments},
+  author={Yamouni, Rima Hasna and Trabelsi, Rim and Cabani, Adnane and Garrach, Malek and Sassi, Oumayma and Abdelkefi, Fatma},
+  journal={Pattern Recognition},
+  pages={113525},
+  year={2026},
+  publisher={Elsevier}
 }
-```
 
 ---
 
@@ -164,13 +157,8 @@ If you use WildAnimal650+ in your research, please cite:
 
 This dataset is released for academic and research purposes only.
 
----
 
-# Project Page
 
-Coming soon.
-
----
 
 # Contact
 
