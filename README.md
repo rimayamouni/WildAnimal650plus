@@ -115,13 +115,14 @@ Our experiments demonstrate significant performance degradation under ecological
 
 WildAnimal650Plus/
 │
-├── images/
-├── annotations/
 ├── train/
 ├── val/
-├── test/
-└── benchmarks/
+└── test/
+## Dataset
 
+You can find the dataset in this Google Drive folder:
+
+[**Access the Google Drive Folder**](https://drive.google.com/drive/folders/10R9_-LpkppdFkWygOMEoT_MCiv-PZDQ3?usp=sharing)
 
 # Annotation Protocol
 
