@@ -105,7 +105,7 @@ Our experiments demonstrate significant performance degradation under ecological
 ## Segmentation Examples
 
 <p align="center">
-  <img src="figure4.pdf" width="1000">
+  <img src="assets/figure4.pdf" width="1000">
 </p>
 
 
