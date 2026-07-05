@@ -112,17 +112,30 @@ Our experiments demonstrate significant performance degradation under ecological
 
 # Dataset Structure
 
-
 WildAnimal650Plus/
 │
 ├── train/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   ├── image3.jpg
+│   └── ...
+│
 ├── val/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   ├── image3.jpg
+│   └── ...
+│
 └── test/
+    ├── image1.jpg
+    ├── image2.jpg
+    ├── image3.jpg
+    └── ...
 ## Dataset
 
 You can find the dataset in this Google Drive folder:
 
-[**Access the Google Drive Folder**](https://drive.google.com/drive/folders/10R9_-LpkppdFkWygOMEoT_MCiv-PZDQ3?usp=sharing)
+[**Access the Google Drive Folder**](https://drive.google.com/drive/folders/1pO4UktcwsR28JBgSH8suFoIbCiyHL_XN?usp=sharing)
 
 # Annotation Protocol
 
