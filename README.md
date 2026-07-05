@@ -102,7 +102,7 @@ Our experiments demonstrate significant performance degradation under ecological
   <img src="assets/results.png" width="1000">
 </p>
 
-## Segmentation Examples
+## Segmentation Results
 
 <p align="center">
   <img src="assets/figure4.jpg" width="1000">
